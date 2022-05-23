@@ -1,0 +1,10 @@
+.btn-hero-btn {
+  background-image: linear-gradient(-20deg, #fc6076 0%, #ff9a44 100%);
+}
+
+.texto-hero {
+  background: #ff3297;
+  background: linear-gradient(to right, #ff3297 0%, #ff2a54 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
