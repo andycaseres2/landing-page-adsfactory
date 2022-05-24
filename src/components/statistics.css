@@ -6,8 +6,9 @@
   position: relative;
   left: 440px;
   top: 20px;
-  font-size: 13px;
-  color: rgb(106, 105, 105);
+  font-size: 13px !important;
+  color: rgb(106, 105, 105) !important;
+  background-color: transparent !important;
 }
 
 .icon-btn {

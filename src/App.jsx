@@ -5,6 +5,7 @@ import { About } from './components/About'
 import { ImgAdsFactory } from './components/ImgAdsFactory'
 import { Advertising } from './components/Advertising'
 import { Statistics } from './components/Statistics'
+import { Footer } from './components/Footer'
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <ImgAdsFactory />
       <Advertising />
       <Statistics />
+      <Footer />
     </div>
   )
 }

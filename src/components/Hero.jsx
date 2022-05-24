@@ -33,10 +33,10 @@ export const Hero = () => {
       </Stack>
 
       <Box right="300px" position="relative" marginTop="80px" bottom="60px">
-        <Button className="btn-hero-btn" color="black" p={7} borderRadius="999">
+        <Button className="btn-hero-btn" color="white" p={7} borderRadius="999">
           QUIERO MULTIPLICAR MIS RESULTADOS
           <Text pl={3}>
-            <AiOutlineArrowRight />
+            <AiOutlineArrowRight className="icon-btn-hero" />
           </Text>
         </Button>
       </Box>

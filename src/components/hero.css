@@ -1,5 +1,9 @@
 .btn-hero-btn {
-  background-image: linear-gradient(-20deg, #fc6076 0%, #ff9a44 100%);
+  background-image: linear-gradient(
+    -20deg,
+    #ff3297 0%,
+    #ff2a54 100%
+  ) !important;
 }
 
 .texto-hero {
@@ -7,4 +11,9 @@
   background: linear-gradient(to right, #ff3297 0%, #ff2a54 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+.icon-btn-hero {
+  color: rgb(255, 255, 255);
+  font-size: 20px;
 }
