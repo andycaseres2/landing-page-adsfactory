@@ -1,0 +1,15 @@
+@import '../App.css';
+
+.btn-statistics {
+  border: 2px solid var(--black);
+  width: 350px;
+  position: relative;
+  left: 440px;
+  top: 20px;
+  font-size: 13px;
+  color: rgb(106, 105, 105);
+}
+
+.icon-btn {
+  color: black;
+}

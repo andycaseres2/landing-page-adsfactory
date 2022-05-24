@@ -25,8 +25,10 @@ export const About = () => {
         </Stack>
 
         <Stack>
-          <Text fontWeight="bold">EXPERTOS EN COMPRA DE TRÁFICO ONLINE</Text>
-          <Text fontWeight="bold" fontSize="28px">
+          <Text fontWeight="bold" fontSize="21">
+            EXPERTOS EN COMPRA DE TRÁFICO ONLINE
+          </Text>
+          <Text fontWeight="bold" fontSize="31px">
             Trabajamos con un solo objetivo: aumentar las ventas de tu negocio.
           </Text>
           <Text fontSize="22px">
