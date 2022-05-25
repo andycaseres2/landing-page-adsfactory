@@ -2,7 +2,7 @@ import React from 'react'
 import { Stack, Text, Button } from '@chakra-ui/react'
 import { AiOutlineArrowRight } from 'react-icons/ai'
 import './footer.css'
-import '../app.css'
+import '../App.css'
 
 export const Footer = () => {
   return (
